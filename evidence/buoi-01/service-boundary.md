@@ -86,7 +86,7 @@ flowchart TD
         Vision[AI Vision Service]
     end
 
-    subgraph "Nhóm: Tam Đại Quỷ Vương - TRUNG TÂM"
+    subgraph "Nhóm: Tứ Tuất Phong TrầnTrần - TRUNG TÂM"
         A6[A6: Core Business]
         DB[(Business Rules & Logic DB)]
         A6 --- DB
